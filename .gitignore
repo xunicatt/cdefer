@@ -1,0 +1,4 @@
+.vscode
+a.out
+defer.o
+libdefer.a
